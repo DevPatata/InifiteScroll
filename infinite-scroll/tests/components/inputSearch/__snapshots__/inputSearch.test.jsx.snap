@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba componente InputSearch Prueba match snapshot 1`] = `
+<div>
+  <form
+    aria-label="form"
+    class="form-padding"
+  >
+    <input
+      autocomplete="off"
+      class="input-search-button input-search"
+      name="searchText"
+      placeholder="Buscar por titulo"
+      type="Text"
+      value=""
+    />
+    <button
+      class="input-search-button input-button"
+    >
+      <i
+        class="fas fa-search search__icon"
+        id="icon"
+      />
+    </button>
+  </form>
+</div>
+`;

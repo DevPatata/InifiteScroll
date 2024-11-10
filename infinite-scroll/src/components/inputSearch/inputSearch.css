@@ -1,0 +1,31 @@
+.input-search{
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.input-search-button{
+  border: solid 1px var(--color-grey);
+  padding: 0.5rem;
+}
+
+.input-button{
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.input-search:focus{
+  outline: none;
+}
+
+.input-button:hover{
+  cursor: pointer;
+  color: #fff;
+  background-color: var(--color-grey);
+}
+
+.form-padding{
+  padding: 1rem 0;
+}
+
+
+

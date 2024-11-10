@@ -1,0 +1,44 @@
+.background{
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: gray;
+  opacity: 50%;
+  z-index: 1;
+}
+
+.modal-position{
+  z-index: 2;
+  position: fixed;
+  top: 30%;
+}
+
+.modal-container{
+  background-color: #fff;
+  padding: 1rem 2rem;
+  border-radius: 5px;
+  width: 50%;
+}
+
+.modal-close{
+  display: none;
+}
+
+.div-cotainer{
+  display: flex;
+  justify-content: center;
+}
+
+.span-close{
+  float: right;
+  cursor: pointer;
+}
+
+.span-close:hover{
+  color: var(--color-grey);
+}
+
+
+

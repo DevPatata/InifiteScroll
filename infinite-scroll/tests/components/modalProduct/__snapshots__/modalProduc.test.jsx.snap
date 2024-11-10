@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba en componente ModalProduct Prueba match snaptshot 1`] = `
+<div>
+  <article
+    class="modal-close false"
+    data-testid="modal-test-id"
+  >
+    <div
+      class="background"
+    />
+    <div
+      class="modal-position modal-container"
+    >
+      <span
+        class="span-close"
+      >
+        <i
+          aria-hidden="true"
+          class="fa fa-times"
+        />
+      </span>
+    </div>
+  </article>
+</div>
+`;

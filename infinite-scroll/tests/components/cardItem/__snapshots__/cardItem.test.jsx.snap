@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba en componente CardItem Prueba match snaptshot 1`] = `
+<div>
+  <div
+    class="card"
+  />
+</div>
+`;

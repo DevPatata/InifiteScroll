@@ -11,6 +11,7 @@ Para correr el proyecto, se necesita tener el server con la informacion mockeada
 
 Para correr el server:
 ```bash
+  cd InfiniteScroll
   cd jsonserver-items
   npm install
   npm run server
@@ -20,6 +21,7 @@ Para correr el server:
 
 Para correr la applicacion:
 ```bash
+  cd InfiniteScroll
   cd infinite-scroll
   npm install
   npm run dev

@@ -17,6 +17,7 @@ Para correr el server:
   npm run server
 ```
 *El server por defecto levanta en http://localhost:3000/
+
 *El server cuenta con un aproximado de 200 elementos.
 
 Para correr la applicacion:
@@ -27,6 +28,7 @@ Para correr la applicacion:
   npm run dev
 ```
 *La aplicacion por defecto levanta en http://localhost:5173/
+
 *Si el server no esta corriendo puede que la applicacion muestre un 404.
 
 ## Test
